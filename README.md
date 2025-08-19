@@ -13,16 +13,16 @@ The project consisted of designing, executing, and documenting quality tests for
 -Positive and negative tests were designed to cover various data entry scenarios.
 -This was documented in the “2. Payment Method and Add Card Checklist” tab.
 
-##3. Test Cases for the “Book” Button
+## 3. Test Cases for the “Book” Button
 -Positive and negative test cases were defined based on the button requirements.
 -The display of trip distance and duration on the button was validated, without the need to check internal calculations.
 -The cases were documented in the “3. Test Cases for the Book Button” tab.
 
-##4. Test Cases for the Car Rental Function
+## 4. Test Cases for the Car Rental Function
 -Positive and negative test cases were prepared according to the rental functionality requirements.
 -The cases were recorded in the “4. Test Cases for Rental” tab.
 
-##5. Test Execution and Error Reporting
+## 5. Test Execution and Error Reporting
 -The application was tested in two environment configurations:
     -Google Chrome, 800x600
     -Firefox, 1920x1080
@@ -30,5 +30,5 @@ The project consisted of designing, executing, and documenting quality tests for
 -Each test was marked as PASS or FAIL.
 -For cases with a FAIL result, bug reports were logged in Jira and linked in the corresponding column of the spreadsheet.
 
-##Project outcome:
+## Project outcome:
 The exercise simulated a complete QA workflow: designing checklists, creating test cases, executing them in different environments, and managing defects in Jira. It also reinforced the practice of analysis techniques such as equivalence class partitioning and boundary values, as well as collaboration in multi-tool environments.
